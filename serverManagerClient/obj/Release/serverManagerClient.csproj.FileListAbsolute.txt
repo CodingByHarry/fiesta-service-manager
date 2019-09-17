@@ -1,0 +1,9 @@
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\bin\Release\serverManagerClient.exe.config
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\bin\Release\serverManagerClient.exe
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\bin\Release\serverManagerClient.pdb
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\obj\Release\serverManagerClient.Form1.resources
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\obj\Release\serverManagerClient.Properties.Resources.resources
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\obj\Release\serverManagerClient.csproj.GenerateResource.cache
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\obj\Release\serverManagerClient.csproj.CoreCompileInputs.cache
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\obj\Release\serverManagerClient.exe
+C:\Users\Ed\Projects\repos\serverManagerServer\serverManagerClient\obj\Release\serverManagerClient.pdb

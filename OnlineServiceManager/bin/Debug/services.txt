@@ -1,0 +1,22 @@
+[Account Service]
+Account
+[AccountLog Service]
+AccountLog
+[Character Service]
+Character
+[GameLog Service]
+GameLog
+[Login Service]
+Login
+[WorldManager Service]
+WorldManager
+[Zone0 Service]
+Zone0
+[Zone1 Service]
+Zone1
+[Zone2 Service]
+Zone2
+[Zone3 Service]
+Zone3
+[Zone4 Service]
+Zone4

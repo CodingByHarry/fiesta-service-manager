@@ -1,0 +1,10 @@
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\bin\Debug\charEditor.exe.config
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\bin\Debug\charEditor.exe
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\bin\Debug\charEditor.pdb
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\obj\Debug\CharEditClient.csprojAssemblyReference.cache
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\obj\Debug\WindowsFormsApp1.charEditor.resources
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\obj\Debug\charEditor.Properties.Resources.resources
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\obj\Debug\CharEditClient.csproj.GenerateResource.cache
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\obj\Debug\CharEditClient.csproj.CoreCompileInputs.cache
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\obj\Debug\charEditor.exe
+C:\Users\Harry\Documents\GitHub\fiesta-service-manager\charEditor\obj\Debug\charEditor.pdb

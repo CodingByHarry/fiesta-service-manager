@@ -1,0 +1,10 @@
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\bin\Release\OnlineServiceManager.exe.config
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\bin\Release\OnlineServiceManager.exe
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\bin\Release\OnlineServiceManager.pdb
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\obj\Release\OnlineServiceManager.csprojAssemblyReference.cache
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\obj\Release\OnlineServiceManager.serverForm.resources
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\obj\Release\OnlineServiceManager.Properties.Resources.resources
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\obj\Release\OnlineServiceManager.csproj.GenerateResource.cache
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\obj\Release\OnlineServiceManager.csproj.CoreCompileInputs.cache
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\obj\Release\OnlineServiceManager.exe
+c:\Users\Ed\Projects\repos\serverManagerServer\OnlineServiceManager\obj\Release\OnlineServiceManager.pdb
